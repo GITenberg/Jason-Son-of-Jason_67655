@@ -1,0 +1,34 @@
+_repo: Jason-Son-of-Jason_67655
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Giesy, J. U. (John Ulrich)
+    aliases:
+    - Giesy, John Ulrich
+    - Giesy, J.U.
+    birthdate: 1877
+    deathdate: 1947
+    gutenberg_agent_id: '37782'
+    url: http://www.gutenberg.org/2009/agents/37782
+    wikipedia: https://en.wikipedia.org/wiki/John_Ulrich_Giesy
+description: ''
+gutenberg_issued: '2022-03-19'
+identifiers:
+  gutenberg: '67655'
+language: en
+pgterms:marc905: 20211023142526giesy
+pgterms:marc906: '1921'
+pgterms:marc907: us
+production_note: Greg Weeks, Mary Meehan and the Online Distributed Proofreading Team
+  at http://www.pgdp.net
+publication_note: United States :New Publications, Inc.,1921,copyright 1948.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Science fiction'
+- !lcc 'PS'
+- !lcsh 'Astral projection -- Fiction'
+- GITenberg
+title: Jason, Son of Jason
+url: http://www.gutenberg.org/ebooks/67655
