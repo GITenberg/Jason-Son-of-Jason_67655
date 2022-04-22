@@ -1,5 +1,8 @@
 _repo: Jason-Son-of-Jason_67655
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 67655-h/images/cover.jpg
 creator:
   author:
     agent_name: Giesy, J. U. (John Ulrich)
@@ -12,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/37782
     wikipedia: https://en.wikipedia.org/wiki/John_Ulrich_Giesy
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67655#Jason-Son-of-Jason
 gutenberg_issued: '2022-03-19'
 identifiers:
   gutenberg: '67655'
